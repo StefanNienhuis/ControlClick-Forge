@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.nienhuisdevelopment.controlclick.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "controlclick.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ControlClickMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
